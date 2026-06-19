@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Resilience & GIS Projects",
+    "section": "",
+    "text": "Supported The Water Institute in developing a FEMA Building Resilient Infrastructure (BRIC) grant application on behalf of Jackson County, Mississippi. In addition to grant writing and mapping, I conducted the benefit-cost analysis for the project. I identified historic flood events using the NWS Storms database then estimated flood recurrence intervals using Atlas curves. Next, I quantified observed insured damages using NFIP damage estimates and developed a methodology to estimate uninsured damages. For each flood event, I also quantified the cost of traffic disruptions. Finally, I used the National Wetlands Inventory and USGS land use dataset to value the ecosystem benefits.\n\n\n\n\n\n\n\n\n\n\n\n\n\nwould be cool to link script here"
+  },
+  {
+    "objectID": "projects.html#drainage-project-fema-bric-grant-application",
+    "href": "projects.html#drainage-project-fema-bric-grant-application",
+    "title": "Resilience & GIS Projects",
+    "section": "",
+    "text": "Supported The Water Institute in developing a FEMA Building Resilient Infrastructure (BRIC) grant application on behalf of Jackson County, Mississippi. In addition to grant writing and mapping, I conducted the benefit-cost analysis for the project. I identified historic flood events using the NWS Storms database then estimated flood recurrence intervals using Atlas curves. Next, I quantified observed insured damages using NFIP damage estimates and developed a methodology to estimate uninsured damages. For each flood event, I also quantified the cost of traffic disruptions. Finally, I used the National Wetlands Inventory and USGS land use dataset to value the ecosystem benefits.\n\n\n\n\n\n\n\n\n\n\n\n\n\nwould be cool to link script here"
+  },
+  {
+    "objectID": "projects.html#flood-hazard-vulnerability-risk-assessment",
+    "href": "projects.html#flood-hazard-vulnerability-risk-assessment",
+    "title": "Resilience & GIS Projects",
+    "section": "Flood Hazard Vulnerability & Risk Assessment",
+    "text": "Flood Hazard Vulnerability & Risk Assessment\nOngoing\nWorked with resilience planners at Michael Baker International to help municipalities in coastal Mississippi raise their Community Rating System (CRS) class. The CRS is a program that rewards National Flood Insurance Program (NFIP) participating communities for going above and beyond the minimum NFIP requirements.\nTo support CRS Activity 510 and Activity 610 efforts, I conducted flood hazard risk and vulnerability assessments, utilizing a variety of data sources, such as county tax assessor parcel data, NOAA high tide and sea level depths, NWS riverine flood inundation, lidar (elevation), repetitive loss, and NFIP policy and claims."
+  },
+  {
+    "objectID": "projects.html#climate-change-attribution---hurricane-ida",
+    "href": "projects.html#climate-change-attribution---hurricane-ida",
+    "title": "Resilience & GIS Projects",
+    "section": "Climate Change Attribution - Hurricane Ida",
+    "text": "Climate Change Attribution - Hurricane Ida\nOngoing\nThis project reflects an ongoing interdisciplinary effort to quantify the social consequences of climate change in south Louisiana during Hurricane Ida using extreme event impact attribution. In collaboration with atmospheric scientists from the National Center for Atmospheric Research and hydro modelers from The Water Institute, the team assessed wind and storm surge damages attributed to climate change and made projections for future impacts.\nMy role was to integrate parcel-level wind and storm surge damage estimates into a comprehensive database, then combine into a hierarchical dataset including block group- and tract-level sociodemographic indicators sourced from the American Community Survey.\n[add map from project] [or maybe one of the original posters?]\nCaption: Figures from our first publication from this project. DOI: XXXX. All code required to recreate tables, figures, and maps from this paper can be found here: GITHUB\nThis project has received a supplemental grant from NCAR to assess the effectiveness of building codes in mitigating the damages associated with climate change. In this supplemental project, I am integrating additional wind damage data into the original hierarchical dataset."
+  },
+  {
+    "objectID": "projects.html#climate-change-attribution---hurricane-harvey",
+    "href": "projects.html#climate-change-attribution---hurricane-harvey",
+    "title": "Resilience & GIS Projects",
+    "section": "Climate Change Attribution - Hurricane Harvey",
+    "text": "Climate Change Attribution - Hurricane Harvey\nAs part of my dissertation research, I explored the unique effects of parcel-level climate change attributable flooding on post-storm recovery. I explored whether homes with attributable flooding were more likely to be sold (and whether these sales were private or to business entities) and property value change."
+  },
+  {
+    "objectID": "projects.html#post-disaster-insurance-claims-policies",
+    "href": "projects.html#post-disaster-insurance-claims-policies",
+    "title": "Resilience & GIS Projects",
+    "section": "Post-Disaster Insurance Claims & Policies",
+    "text": "Post-Disaster Insurance Claims & Policies\nIn two separate but related projects, I have explored how insurance patterns change after disasters, particulary as it relates to climate change attribution. In the first project, in collaboration with Kevin Smiley, Ilan Noy, Michael Wehner, and Oliver Sampson, I analyzed the relationship between tract-level climate change attributble damages and post-storm payouts from FEMA’s NFIP and IA programs.\n[add photo]\nRelatedly, one of my dissertation chapters explored tract-level changes in NFIP policy participation, with a focus on new policies, policy renewal, and policy cancellation."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About KL ."
+  }
+]
