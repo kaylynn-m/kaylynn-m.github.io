@@ -1,24 +1,10 @@
 [
   {
     "listing": "/index.html",
-    "items": [
-      "/projects/bay_st_louis.html",
-      "/projects/diberville.html",
-      "/projects/harvey_federal_aid.html",
-      "/projects/ida_multi_hazard_attribution.html"
-    ]
+    "items": []
   },
   {
     "listing": "/projects.html",
-    "items": [
-      "/projects/bay_st_louis.html",
-      "/projects/diberville.html",
-      "/projects/harvey_federal_aid.html",
-      "/projects/ida_multi_hazard_attribution.html",
-      "/projects/migration_survey.html",
-      "/projects/waveland.html",
-      "/projects/harvey_nfip_policy.html",
-      "/projects/brownfield.html"
-    ]
+    "items": []
   }
 ]
