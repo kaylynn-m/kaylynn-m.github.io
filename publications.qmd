@@ -1,0 +1,10 @@
+---
+title: "Publications"
+format: html
+---
+
+Smiley, Kevin T., Ovel Díaz-García, James M Done, Scott A Hemmerling, KayLynn Larrison, Rubayet Bin Mostafiz, Md Adilur Rahim, Alexandra N Ramos-Valle and Jonathan Teye Yevuyibor. 2026. "Advancing extreme event impact attribution: attributing multi-hazard impacts of Hurricane Ida in south Louisiana to past, present, and future climates." *Environmental Research Letters.* [DOI: 10.1088/2752-5295/ae6889](https://iopscience.iop.org/article/10.1088/2752-5295/ae6889).
+
+Smiley, Kevin T., Ilan Noy, Michael F. Wehner, Oliver E. J. Wing, and KayLynn Larrison. 2025. "Climate change and federal aid disbursements after Hurricane Harvey: an extreme event attribution analysis." *Environmental Research Letters.* [DOI: 10.1088/1748-9326/adf978](https://iopscience.iop.org/article/10.1088/1748-9326/adf978).
+
+O'Connell, Heather A., Marcus Venable, and KayLynn Larrison. 2025. "Neighborhood Disadvantage and the Geographic Distribution of Registered Sex Offender Concentration: Another Dimension of Racial Inequality?" *Race and Social Problems*. [DOI: 10.1007/s12552-025-09446-0](https://link.springer.com/article/10.1007/s12552-025-09446-0).

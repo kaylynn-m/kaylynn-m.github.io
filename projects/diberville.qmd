@@ -1,0 +1,26 @@
+---
+title: "D'Iberville, MS | CRS Activity 610"
+description: "Flood risk mapping and planning support for Gulf Coast Communities pursuing improved CRS ratings."
+image: "../images/diberville.png"
+categories:
+  - Community Resilience & Planning
+order: 2
+---
+
+::::: columns
+::: column
+![](/images/diberville.png){width="348"}
+:::
+
+::: column
+# CRS Planning Support
+
+*This project was completed using funding allocated by the Mississippi Department of Marine Resources to support coastal communities in pursuing Community Rating System (CRS) credit.*
+
+From October 2025 to present (August 2026), I have supported resilience planners in the development of Community Rating System (CRS) Activity 610 flood response plans, contributing to both the planning process and the technical analysis required to support CRS crediting.
+
+My work included participating in stakeholder meetings, contributing to plan writing, and compiling and analyzing flood-risk and community data. I also supported communities in selecting appropriate coastal and riverine flood scenarios, using [SLOSH](https://vlab.noaa.gov/web/mdl/slosh) storm surge modeling and [NOAA riverine flood inundation](https://maps.water.noaa.gov/server/rest/services/fim_libs/static_stage_based_catfim/FeatureServer) data to evaluate potential flood conditions and inform response planning.
+
+A major component of my work involved spatial analysis of buildings covered by each flood response plan, identifying structures within the selected flood scenarios and supporting the calculation of CRS credit adjustments. I developed maps and other GIS-based analyses to communicate flood extent, document plan coverage, and support the planning and CRS documentation process.
+:::
+:::::

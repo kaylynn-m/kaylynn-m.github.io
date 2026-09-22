@@ -1,0 +1,22 @@
+---
+title: "Hurrican Ida: Wind & Storm Surge Attribution Analysis"
+description: "Extreme event attribution analysis of wind and storm surge damage during Ida in southern Louisiana."
+image: "../images/ida_multi_hazard_attribution.png"
+categories:
+  - Research
+order: 4
+---
+
+This interdisciplinary project with LSU, the National Center for Atmospheric Research, and The Water Institute examined Hurricane Ida’s impacts under changing climate conditions. I integrated modeled wind and storm-surge damage estimates with demographic data to analyze the distribution of climate-attributable impacts across communities.
+
+::::: columns
+::: column
+![](images/clipboard-1574836070.png)
+:::
+
+::: column
+Hurricane Ida Multi-Hazard Attribution
+
+This interdisciplinary project with LSU, the National Center for Atmospheric Research, and The Water Institute examined Hurricane Ida’s impacts under changing climate conditions. I integrated modeled wind and storm-surge damage estimates with demographic data to analyze the distribution of climate change attributable impacts across communities.
+:::
+:::::

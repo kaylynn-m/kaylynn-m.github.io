@@ -1,0 +1,14 @@
+---
+title: ""
+page-layout: full
+listing: 
+  contents: projects
+  type: grid
+  grid-columns: 3
+  fields: [image, title]
+  image-height: 220px
+  categories: unnumbered
+  filter-ui: false
+  sort-ui: false
+css: styles.css
+---

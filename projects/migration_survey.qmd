@@ -1,0 +1,21 @@
+---
+title: "Migration Survey Analysis in R"
+description: "Analyzing the terms most preferenced when communicating about moving away from risk."
+image: "../images/clipboard-3958429392.png"
+categories:
+  - Research
+  - Community Resilience & Planning
+order: 5
+---
+
+::::: columns
+::: column
+![](images/clipboard-3958429392.png)
+:::
+
+::: column
+# Migration Survey Analysis in R
+
+I am currently analzying a gulf-wide survey with over 300 responses to evaluate preferences and perceptions of language used to describe migration away from environmentally risky places.
+:::
+:::::

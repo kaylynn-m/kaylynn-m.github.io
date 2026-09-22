@@ -1,0 +1,24 @@
+---
+title: "EEIA & Post-Harvey NFIP Insurance Participation"
+description: "Analyzing Climate Change Attributable Flooding and Post-Harvey Insurance Participation"
+image: "../images/predicted_new_cancel_v2_crop.png"
+categories:
+  - Research
+order: 6
+---
+
+::::: columns
+::: column
+![](/images/predicted_new_cancel_v2_crop.png){width="411"}
+:::
+
+::: column
+# Climate Change & Post-Harvey NFIP Policy Participation
+
+Using census tract level estimates of Hurricane Harvey's flood impacts, I investigated whether neighborhoods experiencing a greater proportion of flooding attributable to climate change subsequently showed different patterns of NFIP policy uptake, renewals, and cancellations.
+
+The analysis combined climate impact attribution data with NFIP policy information and tract-level socioeconomic and housing characteristics. Using spatial statistical models, I analyzed whether greater exposure to climate change-attributable flooding was associated with changes in post-Harvey flood insurance uptake and how these relationships varied across communities.
+
+The analysis provided evidence that climate-attributable flooding was associated with distinct post-disaster NFIP participation outcomes—and that these outcomes diverged by neighborhood income.
+:::
+:::::

@@ -1,0 +1,29 @@
+draft: true
+
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

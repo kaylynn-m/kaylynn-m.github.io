@@ -1,0 +1,26 @@
+---
+title: "Climate Change & Federal Aid Dispersements"
+description: "Spatial analysis evaluating the relationship between climate change attributable damages and federal disaster aid."
+image: "../images/harvey_federal_aid.png"
+categories:
+  - Research
+order: 3
+---
+
+::::: columns
+::: column
+![](/images/harvey_federal_aid.png)
+:::
+
+::: column
+# Climate Change & Post-Harvey Federal Aid
+
+In this project, I conducted a spatial analysis examining the relationship between climate change attributable flood damages and federal disaster assistance at the census tract level. The study area was Harris County, TX following Hurricane Harvey (2017).
+
+I integrated modeled flood damages with census tract-level National Flood Insurance Program (NFIP) and FEMA Individual Assistance (IA) disbursement data. Using climate attribution estimates from peer-reviewed research, the analysis compared damages under scenarios in which climate change increased Harvey's rainfall by 20% and 38%. I applied spatial lag regression models to estimate both direct and spatial spillover relationships between attributable damages and federal recovery expenditures.
+
+The results showed that while both attributable and non-attributable flood damages were associated with federal aid, climate change attributable damages generally had larger effect sizes, particularly for Individual Assistance.
+
+The research highlights an important fiscal dimension of climate change: as climate change intensifies disaster damages, it can also increase the financial burden of recovery borne by federal programs and insurers.
+:::
+:::::

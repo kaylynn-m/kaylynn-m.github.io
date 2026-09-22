@@ -1,0 +1,19 @@
+# RStudio
+.Rproj.user/
+
+# R history
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto cache
+.quarto/
+
+# Rendered site 
+_site/
+
+# OS files
+.DS_Store
+Thumbs.db
+/.quarto/
+**/*.quarto_ipynb

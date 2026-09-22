@@ -1,0 +1,22 @@
+---
+title: "EPA Brownfield Assessment"
+description: "Supported EPA Brownfields grant development and program implementation, combining data analysis, mapping, grant writing, reporting, and public-facing communication."
+image: "../images/brownfield_target_area_map_crop.png"
+categories:
+  - Grants
+order: 6
+---
+
+::::: columns
+::: column
+![](/images/brownfield_target_area_map.png)
+:::
+
+::: column
+[EPA Brownfield Coalition Assessment]{style="color:FFFFFF;font-size:3rem;"}
+
+I contributed to a successful \$1.5 million FY2026 EPA Brownfields grant application by compiling and analyzing social vulnerability and community demographic data, developing maps to communicate conditions in priority areas, and contributing to the written grant narrative. This work helped document community needs and provide a data-driven foundation for the proposed brownfields activities.
+
+I also support the administration and reporting of previously awarded Brownfields grants (FY2019 and FY2023), including compiling information on project activities and outcomes. In addition, I am helping develop a public-facing website highlighting Brownfields accomplishments and success stories, translating project results into accessible information that communicates the program’s community impact.
+:::
+:::::
