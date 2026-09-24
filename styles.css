@@ -32,10 +32,12 @@ body.blue-page {
 
 .light_blue_background {
   background-color: #F0F4FA; 
+  color: #2D3D51;
 }
 
 .lighter_blue_background {
   background-color: #f7f8fa;
+  color: #2D3D51;
 }
 
 .section-inner {
