@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/projects/diberville.html",
-      "/projects/bay_st_louis.html",
-      "/projects/nfip_policy.html",
-      "/projects/ida_multi_hazard_attribution.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/diberville.html",
@@ -17,6 +8,15 @@
       "/projects/harvey_federal_aid.html",
       "/projects/ida_multi_hazard_attribution.html",
       "/projects/waveland.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/diberville.html",
+      "/projects/bay_st_louis.html",
+      "/projects/nfip_policy.html",
+      "/projects/ida_multi_hazard_attribution.html"
     ]
   }
 ]
