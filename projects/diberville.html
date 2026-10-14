@@ -121,8 +121,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#my-role-contributions" id="toc-my-role-contributions" class="nav-link active" data-scroll-target="#my-role-contributions">My Role &amp; Contributions</a></li>
+  <li><a href="#application" id="toc-application" class="nav-link" data-scroll-target="#application">Application</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -156,33 +163,38 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="columns">
 <div class="column">
-<p><img src="..\images/diberville.png" class="img-fluid" width="348"></p>
+<p><br>
+<img src="..\images/diberville.png" class="img-fluid" width="348"></p>
 </div><div class="column">
 <section id="overview" class="level1">
 <h1>Overview</h1>
-<p>The project team supported the City of D’Iberville in developing a flood response plan for Community Rating System (CRS) Activity 610.</p>
-<p>I used R to calculate the proportion of buildings exposed to coastal and riverine flooding, then used ArcGIS to map flood extent, depth, and exposure.</p>
-<p>I also participated in stakeholder meetings to ensure that the CRS scenarios aligned with those established in the community’s flood planning and forecasting protocols.</p>
+<p>This project supported the City of D’Iberville in developing a flood response plan for FEMA’s Community Rating System (CRS) Activity 610.</p>
+<p>My role was to characterize building exposure under coastal storm surge and riverine flood scenarios. Using R, I calculated the proportion of buildings exposed to different flooding conditions and used ArcGIS Pro to map flood extent, depth, affected structures, and overlap with the Special Flood Hazard Area (SFHA). The analysis incorporated NOAA riverine flood stages and hurricane storm surge scenarios to provide a consistent basis for evaluating flood exposure across the city.</p>
 </section>
 </div>
 </div>
-<p><em>Project Work</em></p>
+<section id="my-role-contributions" class="level1">
+<h1>My Role &amp; Contributions</h1>
 <ul>
-<li><p>Flood hazard and exposure mapping</p>
-<ul>
-<li><p>Hurricane Category 1 and 3 Storm Surge</p></li>
-<li><p>Minor, Moderate, and Major Riverine Flood Stages</p></li>
-</ul></li>
-<li><p>Geocoding and mapping critical facilities</p></li>
-<li><p>Stakeholder engagement and plan writing</p></li>
+<li><strong>Flood Scenario Development</strong>: Evaluated Category 1 and Category 3 hurricane storm surge alongside minor, moderate, and major riverine flood stages.</li>
+<li><strong>Building Exposure Analysis</strong>: Integrated flood inundation data with building footprints to quantify the proportion of structures exposed under each scenario.</li>
+<li><strong>Critical Facilities Assessment</strong>: Geocoded and mapped critical facilities to support identification of potentially affected infrastructure.</li>
+<li><strong>Planning Coordination</strong>: Participated in stakeholder meetings to align flood scenarios with existing community forecasting and response protocols.</li>
 </ul>
 <p><em>Data</em></p>
 <ul>
 <li><p>Coastal scenarios: <a href="https://vlab.noaa.gov/web/mdl/slosh">SLOSH</a></p></li>
 <li><p>Riverine scenarios: <a href="https://maps.water.noaa.gov/server/rest/services/fim_libs/static_stage_based_catfim/FeatureServer">NOAA Riverine Flood Inundation</a></p></li>
+<li><p>Local building footprints</p></li>
 </ul>
+</section>
+<section id="application" class="level1">
+<h1>Application</h1>
+<p>The resulting maps and exposure estimates support scenario-based flood response planning by identifying where structures and critical facilities may be affected as flood conditions intensify.</p>
+<p><img src="images/diberville_riverine_sfha.png" class="img-fluid" width="290"></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
