@@ -5,6 +5,20 @@
   font-weight: 700;
 }
 
+.about-page-photos figure {
+  width: 355px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-page-photos figcaption {
+  width: 100%;
+  text-align: center;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
 /*old*/
 
 body.blue-page {
@@ -223,10 +237,24 @@ body.blue-page {
     text-align: center;
     margin-bottom: 1.5rem;
   }
+  
+  .about-page-photos figure,
+  .about-photo-mobile figure {
+    width: 80%;
+    max-width: 355px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .about-page-photos figcaption,
+  .about-photo-mobile figcaption {
+    width: 100%;
+    text-align: center;
+  }
 
   .about-page-photos img,
   .about-photo-mobile img {
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
   }
 
