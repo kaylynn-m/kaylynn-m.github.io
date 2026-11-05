@@ -9,21 +9,21 @@
   {
     "objectID": "projects/ida_multi_hazard_attribution.html",
     "href": "projects/ida_multi_hazard_attribution.html",
-    "title": "Hurrican Ida: Wind & Storm Surge Attribution Analysis",
+    "title": "Hurricane Ida: Wind & Storm Surge Attribution Analysis",
     "section": "",
     "text": "This interdisciplinary project with LSU, the National Center for Atmospheric Research, and The Water Institute examined Hurricane Ida’s impacts under changing climate conditions.\nMy role was to integrate modeled wind and storm-surge damage estimates with demographic data and to analyze the distribution of climate change attributable impacts across different populations and communities."
   },
   {
     "objectID": "projects/ida_multi_hazard_attribution.html#research-significance",
     "href": "projects/ida_multi_hazard_attribution.html#research-significance",
-    "title": "Hurrican Ida: Wind & Storm Surge Attribution Analysis",
+    "title": "Hurricane Ida: Wind & Storm Surge Attribution Analysis",
     "section": "Research Significance",
     "text": "Research Significance\nBy connecting physical climate attribution modeling with social and demographic data, this research contributes to understanding not only how climate change intensifies disaster impacts, but also how those additional damages are distributed across communities.\nThe findings can inform discussions of climate-related inequality, disaster vulnerability, and the equitable allocation of adaptation and recovery resources.\nCode & Reproducibility: View Project on GitHub."
   },
   {
     "objectID": "projects/harvey_federal_aid.html",
     "href": "projects/harvey_federal_aid.html",
-    "title": "Climate Change & Federal Aid Dispersements",
+    "title": "Climate Change & Federal Aid Disbursements",
     "section": "",
     "text": "Overview\nThis was an interdisciplinary effort to assess the relationship between climate change attributable damages and federal disaster assistance.\nI integrated modeled flood damages with FEMA NFIP paid claims and Individual Assistance payouts, applied spatial lag regression models to estimate both direct and spatial spillover effects of attributable damages, and created maps to visualize the relationship.\nResults indicate that while both attributable and non-attributable flood damages were associated with federal aid, climate change attributable damages generally had larger effect sizes, particularly for Individual Assistance."
   },
@@ -39,7 +39,7 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "Waveland, MS | CRS Activity 510\n\n\n\n\n\n\n\n\n\n\n\n\nBay St. Louis | CRS Activity 510\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Flood Insurance Participation\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Change & Federal Aid Dispersements\n\n\n\n\n\n\n\n\n\n\n\n\nD’Iberville, MS | CRS Activity 610\n\n\n\n\n\n\n\n\n\n\n\n\nHurrican Ida: Wind & Storm Surge Attribution Analysis\n\n\n\n\n\nNo matching items"
+    "text": "Waveland, MS | CRS Activity 510\n\n\n\n\n\n\n\n\n\n\n\n\nBay St. Louis | CRS Activity 510\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Flood Insurance Participation\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Change & Federal Aid Disbursements\n\n\n\n\n\n\n\n\n\n\n\n\nD’Iberville, MS | CRS Activity 610\n\n\n\n\n\n\n\n\n\n\n\n\nHurricane Ida: Wind & Storm Surge Attribution Analysis\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
